@@ -33,3 +33,7 @@ This was the most useful tool and it basically completely created my app and I u
 ## Quiz
 
 <https://create.kahoot.it/share/a10-2025/bd88d6d1-500f-4605-b9c0-cec775c64027>
+
+## Presentation
+
+<https://docs.google.com/presentation/d/1dgxvLKuUg0N2-iMx0UdB-bfJY7lDWjpXHDu6sQH5ps4/edit?usp=sharing>
