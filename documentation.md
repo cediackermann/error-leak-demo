@@ -29,3 +29,7 @@ Used in the beginning but it made a way too complex app that I couldn't understa
 Prompt log: gemini_cli.md
 
 This was the most useful tool and it basically completely created my app and I used copilot to do minor adjustments. Very easy to use in the CLI and it was able to make it not too complex. Maybe this has to do with the fact that I went through multiple iterations of the whole project with different tools and with that my prompts got better and better.
+
+## Quiz
+
+<https://create.kahoot.it/share/a10-2025/bd88d6d1-500f-4605-b9c0-cec775c64027>
