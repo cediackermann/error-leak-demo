@@ -18,7 +18,7 @@ I have tried using multiple AI tools for creating a fairly simple app.
 
 ### Github Copilot
 
-Used for quick fixes directly in the editor, didn't make anything useless but it were fairly simple tasks here and there so I couldn't really collect it into a prompt log
+Used for quick fixes directly in the editor, didn't make anything useless but it were fairly simple tasks here and there so I couldn't really collect it into a prompt log.
 
 ### Antigravity
 
