@@ -4,6 +4,9 @@
 
 Prompt log: <https://share.google/aimode/mpnU99DwV6udIOi6q>
 
+Result: The OWASP Top 10 lists critical security risks for web applications, with each category acting as a container for related Common Weakness Enumeration (CWE) entries. The OWASP Proactive Controls project provides defensive techniques for developers to mitigate these risks. While the Top 10 focuses on threats and risks, Proactive Controls emphasize defenses and controls, primarily targeting developers with practical coding techniques and secure design patterns. More information is available on the
+OWASP website.
+
 Validation steps:
 
 - Get a quick overview over the sources
